@@ -1,0 +1,11 @@
+D:\Projetos\TechLibrary\TechLibrary\TechLibrary.Exception\bin\Debug\net8.0\TechLibrary.Exception.deps.json
+D:\Projetos\TechLibrary\TechLibrary\TechLibrary.Exception\bin\Debug\net8.0\TechLibrary.Exception.dll
+D:\Projetos\TechLibrary\TechLibrary\TechLibrary.Exception\bin\Debug\net8.0\TechLibrary.Exception.pdb
+D:\Projetos\TechLibrary\TechLibrary\TechLibrary.Exception\obj\Debug\net8.0\TechLibrary.Exception.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\TechLibrary\TechLibrary\TechLibrary.Exception\obj\Debug\net8.0\TechLibrary.Exception.AssemblyInfoInputs.cache
+D:\Projetos\TechLibrary\TechLibrary\TechLibrary.Exception\obj\Debug\net8.0\TechLibrary.Exception.AssemblyInfo.cs
+D:\Projetos\TechLibrary\TechLibrary\TechLibrary.Exception\obj\Debug\net8.0\TechLibrary.Exception.csproj.CoreCompileInputs.cache
+D:\Projetos\TechLibrary\TechLibrary\TechLibrary.Exception\obj\Debug\net8.0\TechLibrary.Exception.dll
+D:\Projetos\TechLibrary\TechLibrary\TechLibrary.Exception\obj\Debug\net8.0\refint\TechLibrary.Exception.dll
+D:\Projetos\TechLibrary\TechLibrary\TechLibrary.Exception\obj\Debug\net8.0\TechLibrary.Exception.pdb
+D:\Projetos\TechLibrary\TechLibrary\TechLibrary.Exception\obj\Debug\net8.0\ref\TechLibrary.Exception.dll

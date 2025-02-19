@@ -9,3 +9,4 @@ D:\Projetos\TechLibrary\TechLibrary\TechLibrary.Communication\obj\Debug\net8.0\T
 D:\Projetos\TechLibrary\TechLibrary\TechLibrary.Communication\obj\Debug\net8.0\refint\TechLibrary.Communication.dll
 D:\Projetos\TechLibrary\TechLibrary\TechLibrary.Communication\obj\Debug\net8.0\TechLibrary.Communication.pdb
 D:\Projetos\TechLibrary\TechLibrary\TechLibrary.Communication\obj\Debug\net8.0\ref\TechLibrary.Communication.dll
+D:\Projetos\TechLibrary\TechLibrary\TechLibrary.Communication\obj\Debug\net8.0\TechLibrary.Communication.sourcelink.json

@@ -1,1 +1,5 @@
-.vs/ 
+# Arquivos do Visual Studio
+.vs/
+*.suo
+*.user
+*.cache

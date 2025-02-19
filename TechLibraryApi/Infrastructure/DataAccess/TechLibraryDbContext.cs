@@ -1,10 +1,10 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using TechLibraryApi.Domain.Entities;
-namespace TechLibraryApi.Infrastructure
+namespace TechLibraryApi.Infrastructure.DataAccess
 
 {
     public class TechLibraryDbContext : DbContext
-    {       
+    {
         public DbSet<User> Users { get; set; }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {

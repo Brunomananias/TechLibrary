@@ -79,3 +79,11 @@ D:\Projetos\TechLibrary\TechLibrary\TechLibraryApi\bin\Debug\net8.0\runtimes\win
 D:\Projetos\TechLibrary\TechLibrary\TechLibraryApi\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 D:\Projetos\TechLibrary\TechLibrary\TechLibraryApi\bin\Debug\net8.0\TechLibrary.Exception.dll
 D:\Projetos\TechLibrary\TechLibrary\TechLibraryApi\bin\Debug\net8.0\TechLibrary.Exception.pdb
+D:\Projetos\TechLibrary\TechLibrary\TechLibraryApi\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\Projetos\TechLibrary\TechLibrary\TechLibraryApi\obj\Debug\net8.0\TechLibraryApi.sourcelink.json
+D:\Projetos\TechLibrary\TechLibrary\TechLibraryApi\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
+D:\Projetos\TechLibrary\TechLibrary\TechLibraryApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Projetos\TechLibrary\TechLibrary\TechLibraryApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projetos\TechLibrary\TechLibrary\TechLibraryApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Projetos\TechLibrary\TechLibrary\TechLibraryApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Projetos\TechLibrary\TechLibrary\TechLibraryApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll

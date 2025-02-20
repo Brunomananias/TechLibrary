@@ -10,3 +10,15 @@ D:\Projetos\TechLibrary\TechLibrary\TechLibrary.Communication\obj\Debug\net8.0\r
 D:\Projetos\TechLibrary\TechLibrary\TechLibrary.Communication\obj\Debug\net8.0\TechLibrary.Communication.pdb
 D:\Projetos\TechLibrary\TechLibrary\TechLibrary.Communication\obj\Debug\net8.0\ref\TechLibrary.Communication.dll
 D:\Projetos\TechLibrary\TechLibrary\TechLibrary.Communication\obj\Debug\net8.0\TechLibrary.Communication.sourcelink.json
+C:\Users\bruno.silva\Documents\projetoRocket\TechLibrary\TechLibrary.Communication\bin\Debug\net8.0\TechLibrary.Communication.deps.json
+C:\Users\bruno.silva\Documents\projetoRocket\TechLibrary\TechLibrary.Communication\bin\Debug\net8.0\TechLibrary.Communication.dll
+C:\Users\bruno.silva\Documents\projetoRocket\TechLibrary\TechLibrary.Communication\bin\Debug\net8.0\TechLibrary.Communication.pdb
+C:\Users\bruno.silva\Documents\projetoRocket\TechLibrary\TechLibrary.Communication\obj\Debug\net8.0\TechLibrary.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno.silva\Documents\projetoRocket\TechLibrary\TechLibrary.Communication\obj\Debug\net8.0\TechLibrary.Communication.AssemblyInfoInputs.cache
+C:\Users\bruno.silva\Documents\projetoRocket\TechLibrary\TechLibrary.Communication\obj\Debug\net8.0\TechLibrary.Communication.AssemblyInfo.cs
+C:\Users\bruno.silva\Documents\projetoRocket\TechLibrary\TechLibrary.Communication\obj\Debug\net8.0\TechLibrary.Communication.csproj.CoreCompileInputs.cache
+C:\Users\bruno.silva\Documents\projetoRocket\TechLibrary\TechLibrary.Communication\obj\Debug\net8.0\TechLibrary.Communication.sourcelink.json
+C:\Users\bruno.silva\Documents\projetoRocket\TechLibrary\TechLibrary.Communication\obj\Debug\net8.0\TechLibrary.Communication.dll
+C:\Users\bruno.silva\Documents\projetoRocket\TechLibrary\TechLibrary.Communication\obj\Debug\net8.0\refint\TechLibrary.Communication.dll
+C:\Users\bruno.silva\Documents\projetoRocket\TechLibrary\TechLibrary.Communication\obj\Debug\net8.0\TechLibrary.Communication.pdb
+C:\Users\bruno.silva\Documents\projetoRocket\TechLibrary\TechLibrary.Communication\obj\Debug\net8.0\ref\TechLibrary.Communication.dll

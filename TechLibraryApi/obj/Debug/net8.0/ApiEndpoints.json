@@ -1,0 +1,124 @@
+[
+  {
+    "ContainingType": "TechLibraryApi.Controllers.BooksController",
+    "Method": "Filter",
+    "RelativePath": "Books/Filter",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pageNumber",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "title",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "TechLibrary.Communication.Responses.ResponseBooksJson",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      },
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 204
+      }
+    ]
+  },
+  {
+    "ContainingType": "TechLibraryApi.Controllers.CheckoutsController",
+    "Method": "BookCheckout",
+    "RelativePath": "Checkouts/{bookId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "bookId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TechLibraryApi.Controllers.LoginController",
+    "Method": "Login",
+    "RelativePath": "Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "TechLibrary.Communication.Requests.RequestLoginJson",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "TechLibrary.Communication.Responses.ResponseRegisteredUserJson",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      },
+      {
+        "Type": "TechLibrary.Communication.Responses.ResponseRegisteredUserJson",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 401
+      }
+    ]
+  },
+  {
+    "ContainingType": "TechLibraryApi.Controllers.UsersController",
+    "Method": "Register",
+    "RelativePath": "Users",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "TechLibrary.Communication.Requests.RequestUserJson",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "TechLibrary.Communication.Responses.ResponseRegisteredUserJson",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 201
+      },
+      {
+        "Type": "TechLibrary.Communication.Responses.ResponseRegisteredUserJson",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 400
+      }
+    ]
+  }
+]

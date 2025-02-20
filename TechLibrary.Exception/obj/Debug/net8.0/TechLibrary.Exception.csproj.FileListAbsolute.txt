@@ -10,3 +10,15 @@ D:\Projetos\TechLibrary\TechLibrary\TechLibrary.Exception\obj\Debug\net8.0\refin
 D:\Projetos\TechLibrary\TechLibrary\TechLibrary.Exception\obj\Debug\net8.0\TechLibrary.Exception.pdb
 D:\Projetos\TechLibrary\TechLibrary\TechLibrary.Exception\obj\Debug\net8.0\ref\TechLibrary.Exception.dll
 D:\Projetos\TechLibrary\TechLibrary\TechLibrary.Exception\obj\Debug\net8.0\TechLibrary.Exception.sourcelink.json
+C:\Users\bruno.silva\Documents\projetoRocket\TechLibrary\TechLibrary.Exception\bin\Debug\net8.0\TechLibrary.Exception.deps.json
+C:\Users\bruno.silva\Documents\projetoRocket\TechLibrary\TechLibrary.Exception\bin\Debug\net8.0\TechLibrary.Exception.dll
+C:\Users\bruno.silva\Documents\projetoRocket\TechLibrary\TechLibrary.Exception\bin\Debug\net8.0\TechLibrary.Exception.pdb
+C:\Users\bruno.silva\Documents\projetoRocket\TechLibrary\TechLibrary.Exception\obj\Debug\net8.0\TechLibrary.Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno.silva\Documents\projetoRocket\TechLibrary\TechLibrary.Exception\obj\Debug\net8.0\TechLibrary.Exception.AssemblyInfoInputs.cache
+C:\Users\bruno.silva\Documents\projetoRocket\TechLibrary\TechLibrary.Exception\obj\Debug\net8.0\TechLibrary.Exception.AssemblyInfo.cs
+C:\Users\bruno.silva\Documents\projetoRocket\TechLibrary\TechLibrary.Exception\obj\Debug\net8.0\TechLibrary.Exception.csproj.CoreCompileInputs.cache
+C:\Users\bruno.silva\Documents\projetoRocket\TechLibrary\TechLibrary.Exception\obj\Debug\net8.0\TechLibrary.Exception.sourcelink.json
+C:\Users\bruno.silva\Documents\projetoRocket\TechLibrary\TechLibrary.Exception\obj\Debug\net8.0\TechLibrary.Exception.dll
+C:\Users\bruno.silva\Documents\projetoRocket\TechLibrary\TechLibrary.Exception\obj\Debug\net8.0\refint\TechLibrary.Exception.dll
+C:\Users\bruno.silva\Documents\projetoRocket\TechLibrary\TechLibrary.Exception\obj\Debug\net8.0\TechLibrary.Exception.pdb
+C:\Users\bruno.silva\Documents\projetoRocket\TechLibrary\TechLibrary.Exception\obj\Debug\net8.0\ref\TechLibrary.Exception.dll

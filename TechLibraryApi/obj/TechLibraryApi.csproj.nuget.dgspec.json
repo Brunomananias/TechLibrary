@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projetos\\TechLibrary\\TechLibrary\\TechLibraryApi\\TechLibraryApi.csproj": {}
+    "C:\\Users\\bruno.silva\\Documents\\projetoRocket\\TechLibrary\\TechLibraryApi\\TechLibraryApi.csproj": {}
   },
   "projects": {
-    "D:\\Projetos\\TechLibrary\\TechLibrary\\TechLibrary.Communication\\TechLibrary.Communication.csproj": {
+    "C:\\Users\\bruno.silva\\Documents\\projetoRocket\\TechLibrary\\TechLibrary.Communication\\TechLibrary.Communication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projetos\\TechLibrary\\TechLibrary\\TechLibrary.Communication\\TechLibrary.Communication.csproj",
+        "projectUniqueName": "C:\\Users\\bruno.silva\\Documents\\projetoRocket\\TechLibrary\\TechLibrary.Communication\\TechLibrary.Communication.csproj",
         "projectName": "TechLibrary.Communication",
-        "projectPath": "D:\\Projetos\\TechLibrary\\TechLibrary\\TechLibrary.Communication\\TechLibrary.Communication.csproj",
-        "packagesPath": "C:\\Users\\Bruno Ananias\\.nuget\\packages\\",
-        "outputPath": "D:\\Projetos\\TechLibrary\\TechLibrary\\TechLibrary.Communication\\obj\\",
+        "projectPath": "C:\\Users\\bruno.silva\\Documents\\projetoRocket\\TechLibrary\\TechLibrary.Communication\\TechLibrary.Communication.csproj",
+        "packagesPath": "C:\\Users\\bruno.silva\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bruno.silva\\Documents\\projetoRocket\\TechLibrary\\TechLibrary.Communication\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Bruno Ananias\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bruno.silva\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -61,21 +61,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Projetos\\TechLibrary\\TechLibrary\\TechLibrary.Exception\\TechLibrary.Exception.csproj": {
+    "C:\\Users\\bruno.silva\\Documents\\projetoRocket\\TechLibrary\\TechLibrary.Exception\\TechLibrary.Exception.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projetos\\TechLibrary\\TechLibrary\\TechLibrary.Exception\\TechLibrary.Exception.csproj",
+        "projectUniqueName": "C:\\Users\\bruno.silva\\Documents\\projetoRocket\\TechLibrary\\TechLibrary.Exception\\TechLibrary.Exception.csproj",
         "projectName": "TechLibrary.Exception",
-        "projectPath": "D:\\Projetos\\TechLibrary\\TechLibrary\\TechLibrary.Exception\\TechLibrary.Exception.csproj",
-        "packagesPath": "C:\\Users\\Bruno Ananias\\.nuget\\packages\\",
-        "outputPath": "D:\\Projetos\\TechLibrary\\TechLibrary\\TechLibrary.Exception\\obj\\",
+        "projectPath": "C:\\Users\\bruno.silva\\Documents\\projetoRocket\\TechLibrary\\TechLibrary.Exception\\TechLibrary.Exception.csproj",
+        "packagesPath": "C:\\Users\\bruno.silva\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bruno.silva\\Documents\\projetoRocket\\TechLibrary\\TechLibrary.Exception\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Bruno Ananias\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bruno.silva\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -122,21 +122,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Projetos\\TechLibrary\\TechLibrary\\TechLibraryApi\\TechLibraryApi.csproj": {
+    "C:\\Users\\bruno.silva\\Documents\\projetoRocket\\TechLibrary\\TechLibraryApi\\TechLibraryApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projetos\\TechLibrary\\TechLibrary\\TechLibraryApi\\TechLibraryApi.csproj",
+        "projectUniqueName": "C:\\Users\\bruno.silva\\Documents\\projetoRocket\\TechLibrary\\TechLibraryApi\\TechLibraryApi.csproj",
         "projectName": "TechLibraryApi",
-        "projectPath": "D:\\Projetos\\TechLibrary\\TechLibrary\\TechLibraryApi\\TechLibraryApi.csproj",
-        "packagesPath": "C:\\Users\\Bruno Ananias\\.nuget\\packages\\",
-        "outputPath": "D:\\Projetos\\TechLibrary\\TechLibrary\\TechLibraryApi\\obj\\",
+        "projectPath": "C:\\Users\\bruno.silva\\Documents\\projetoRocket\\TechLibrary\\TechLibraryApi\\TechLibraryApi.csproj",
+        "packagesPath": "C:\\Users\\bruno.silva\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bruno.silva\\Documents\\projetoRocket\\TechLibrary\\TechLibraryApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Bruno Ananias\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bruno.silva\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -151,11 +151,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Projetos\\TechLibrary\\TechLibrary\\TechLibrary.Communication\\TechLibrary.Communication.csproj": {
-                "projectPath": "D:\\Projetos\\TechLibrary\\TechLibrary\\TechLibrary.Communication\\TechLibrary.Communication.csproj"
+              "C:\\Users\\bruno.silva\\Documents\\projetoRocket\\TechLibrary\\TechLibrary.Communication\\TechLibrary.Communication.csproj": {
+                "projectPath": "C:\\Users\\bruno.silva\\Documents\\projetoRocket\\TechLibrary\\TechLibrary.Communication\\TechLibrary.Communication.csproj"
               },
-              "D:\\Projetos\\TechLibrary\\TechLibrary\\TechLibrary.Exception\\TechLibrary.Exception.csproj": {
-                "projectPath": "D:\\Projetos\\TechLibrary\\TechLibrary\\TechLibrary.Exception\\TechLibrary.Exception.csproj"
+              "C:\\Users\\bruno.silva\\Documents\\projetoRocket\\TechLibrary\\TechLibrary.Exception\\TechLibrary.Exception.csproj": {
+                "projectPath": "C:\\Users\\bruno.silva\\Documents\\projetoRocket\\TechLibrary\\TechLibrary.Exception\\TechLibrary.Exception.csproj"
               }
             }
           }
@@ -182,6 +182,10 @@
             "FluentValidation": {
               "target": "Package",
               "version": "[11.11.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.13, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -223,7 +227,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

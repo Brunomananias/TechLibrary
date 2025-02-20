@@ -29,7 +29,7 @@ namespace TechLibraryApi.Infrastructure.Security.Tokens.Access
             return tokenHandler.WriteToken(securityToken);
         }
 
-        private static SymmetricSecurityKey SecurityKey()
+        public static SymmetricSecurityKey SecurityKey()
         {
             var signingKey = "WobteV67Z4TBKjmM9H6L2qhzx0lfetfH";
 

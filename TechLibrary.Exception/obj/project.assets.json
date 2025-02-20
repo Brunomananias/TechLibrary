@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Bruno Ananias\\.nuget\\packages\\": {}
+    "C:\\Users\\bruno.silva\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projetos\\TechLibrary\\TechLibrary\\TechLibrary.Exception\\TechLibrary.Exception.csproj",
+      "projectUniqueName": "C:\\Users\\bruno.silva\\Documents\\projetoRocket\\TechLibrary\\TechLibrary.Exception\\TechLibrary.Exception.csproj",
       "projectName": "TechLibrary.Exception",
-      "projectPath": "D:\\Projetos\\TechLibrary\\TechLibrary\\TechLibrary.Exception\\TechLibrary.Exception.csproj",
-      "packagesPath": "C:\\Users\\Bruno Ananias\\.nuget\\packages\\",
-      "outputPath": "D:\\Projetos\\TechLibrary\\TechLibrary\\TechLibrary.Exception\\obj\\",
+      "projectPath": "C:\\Users\\bruno.silva\\Documents\\projetoRocket\\TechLibrary\\TechLibrary.Exception\\TechLibrary.Exception.csproj",
+      "packagesPath": "C:\\Users\\bruno.silva\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\bruno.silva\\Documents\\projetoRocket\\TechLibrary\\TechLibrary.Exception\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Bruno Ananias\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\bruno.silva\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
